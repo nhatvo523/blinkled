@@ -108,7 +108,7 @@ int main(void)
 
     /* USER CODE BEGIN 3 */
 	  LL_GPIO_TogglePin(GPIOC, LL_GPIO_PIN_13);
-	  LL_mDelay(15998);
+	  LL_mDelay(159998);
 
   }
   /* USER CODE END 3 */
